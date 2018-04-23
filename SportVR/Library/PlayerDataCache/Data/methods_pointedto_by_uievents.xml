@@ -9,23 +9,23 @@
 			<method name="SetActive"/>
 		</type>
 	</assembly>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="StartManager">
-			<method name="ChangeScene"/>
-			<method name="ChoiseValue"/>
-			<method name="ChoiseValue"/>
-			<method name="ChoiseValue"/>
-		</type>
-		<type fullname="GameManager">
-			<method name="ChangeScene"/>
-			<method name="ChangeScene"/>
-		</type>
-	</assembly>
 	<assembly fullname="UnityEngine.UI">
 		<type fullname="UnityEngine.UI.Text">
 			<method name="set_text"/>
 			<method name="set_text"/>
 			<method name="set_text"/>
+		</type>
+	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="StartManager">
+			<method name="ChoiseValue"/>
+			<method name="ChoiseValue"/>
+			<method name="ChangeScene"/>
+			<method name="ChoiseValue"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="ChangeScene"/>
+			<method name="ChangeScene"/>
 		</type>
 	</assembly>
 </linker>
