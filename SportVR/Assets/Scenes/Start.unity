@@ -302,6 +302,10 @@ Prefab:
       propertyPath: m_Text
       value: "\u6311\u6230"
       objectReference: {fileID: 0}
+    - target: {fileID: 1020306632401430, guid: e66b6daf3a0994949b43f90505c313b3, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e66b6daf3a0994949b43f90505c313b3, type: 2}
   m_IsPrefabParent: 0
